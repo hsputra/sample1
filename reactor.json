@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "hsputra",
+    "repo": "sample1",
+    "branch": "master"
+  },
+  "name": "sample1",
+  "description": "sample 1",
+  "version": "1.0.0",
+  "projectId": "0"
+}
